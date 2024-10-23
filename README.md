@@ -13,7 +13,7 @@ Key Features:
 
 Value of the Report:
 
-### Strategic Decision Making: The ability to simulate financial outcomes with the "What If" scenarios helps in making proactive, data-driven decisions.
-### Holistic Financial Overview: Detailed month-to-month and supplier-level insights provide a clear financial picture, assisting with performance tracking and forecasting.
-### Operational Efficiency: The breakdown of revenue by channel and product category helps the business optimize its sales strategies, focusing on high-margin products and top-performing suppliers.
-### This report is an essential tool for retail businesses to track their financial health, manage supplier relationships, and optimize sales strategies across multiple channels.
+##### Strategic Decision Making: The ability to simulate financial outcomes with the "What If" scenarios helps in making proactive, data-driven decisions.
+##### Holistic Financial Overview: Detailed month-to-month and supplier-level insights provide a clear financial picture, assisting with performance tracking and forecasting.
+##### Operational Efficiency: The breakdown of revenue by channel and product category helps the business optimize its sales strategies, focusing on high-margin products and top-performing suppliers.
+##### This report is an essential tool for retail businesses to track their financial health, manage supplier relationships, and optimize sales strategies across multiple channels.
