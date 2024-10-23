@@ -17,3 +17,5 @@ Value of the Report:
 ##### Holistic Financial Overview: Detailed month-to-month and supplier-level insights provide a clear financial picture, assisting with performance tracking and forecasting.
 ##### Operational Efficiency: The breakdown of revenue by channel and product category helps the business optimize its sales strategies, focusing on high-margin products and top-performing suppliers.
 ##### This report is an essential tool for retail businesses to track their financial health, manage supplier relationships, and optimize sales strategies across multiple channels.
+#### My Portfolio web site: https://benjdidiayacineportfolio.bss.design/
+![Supplier](https://github.com/user-attachments/assets/6e3c3ec0-176d-442e-9e36-a504147a969c)
